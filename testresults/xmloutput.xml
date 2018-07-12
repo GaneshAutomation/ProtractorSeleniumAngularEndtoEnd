@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Demo EMI page" timestamp="2018-07-11T17:00:07" hostname="localhost" time="21.415" errors="0" tests="1" skipped="0" failures="0">
+  <testcase classname="Demo EMI page" name="Should be added to Cart " time="21.413">
+  </testcase>
+ </testsuite>
+</testsuites>
