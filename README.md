@@ -21,8 +21,11 @@ Running Tests
 protractor conf.js
 
 Features:
+
 Supports Page Object Model
+
 Supports HTML Results
+
 Supports Screenshots
 
 
